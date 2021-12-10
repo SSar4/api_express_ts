@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "module": "CommonJS",
+    //usar modulos que ñ são
+    //feitos em ts 
+    "allowJs": true,
+    //"strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    //pasta onde os arquivos finai vai ficar
+    "outDir": "./dist"
+  }
+}
